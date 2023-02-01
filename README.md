@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oGermxn
-- 👀 I’m interested in becoming a front end developer
-- 🌱 I’m currently learning HTML - CSS - JAVASCRIPT - PHP
+- 👀 I’m interested in becoming a back end developer
+- 🌱 I’m currently learning C and Python
 - 📫 How to reach me: samuel.sgerman@gmail.com
 
 <!---
